@@ -24,6 +24,7 @@ GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooT
 ### --------Tools-----
 https://www.photopea.com/ |  https://www.gimp.org/
 
+[4 BEST STICKMAN ANIMATION MAKERS IN 2022](https://fixthephoto.com/best-stickman-animation-maker.html)
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
